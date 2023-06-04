@@ -62,9 +62,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## Language Usage
-
 <!--START_SECTION:language_stats-->
 ![D-on3's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-on3&show_icons=true&theme=tokyonight)
 
