@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm [D-on3]
 
 I'm a software developer with experience in C, Python, and Linux OS. I have a keen interest in these technologies and enjoy working on projects that involve them.
-
+<!--
 ## 💼 Experience
 
 - [Company/Organization 1](link): Briefly describe your role, responsibilities, and notable projects you worked on.
 - [Company/Organization 2](link): Briefly describe your role, responsibilities, and notable projects you worked on.
-
+-->
 ## 🔧 Skills
 
 Here are some of the skills I've acquired:
