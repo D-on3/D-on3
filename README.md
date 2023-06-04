@@ -24,7 +24,7 @@ I have a keen interest in the following areas:
 - Open-source software development
 
 ## 🚀 Projects
-<--!
+<!--
 Here are a few projects I've worked on:
 
 - [Project 1](link): Provide a brief overview of the project, its purpose, features, and technologies used.
