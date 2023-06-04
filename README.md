@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ## Language Usage
 
 <!--START_SECTION:language_stats-->
-![D-on3's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-o3&show_icons=true&theme=radical)
+![D-on3's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-on3&show_icons=true&theme=radical)
 
 <!--END_SECTION:language_stats-->
