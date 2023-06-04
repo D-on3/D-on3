@@ -31,7 +31,7 @@ Here are a few projects I've worked on:
 - [Project 2](link): Provide a brief overview of the project, its purpose, features, and technologies used.
 
 Feel free to explore my repositories for more projects!
--->
+
 ## 📫 Let's Connect
 
 - LinkedIn: [Your LinkedIn profile URL](link)
@@ -39,7 +39,7 @@ Feel free to explore my repositories for more projects!
 
 Feel free to reach out to me if you have any questions, project ideas, or just want to connect!
 
-
+-->
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D-on3)](https://github.com/D-on3/github-readme-stats&theme=tokyonight)
 
