@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Language Usage
+
+<!--START_SECTION:language_stats-->
+<!--END_SECTION:language_stats-->
