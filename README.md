@@ -12,7 +12,7 @@ I'm a software developer with experience in C, Python, and Linux OS. I have a ke
 Here are some of the skills I've acquired:
 
 - Programming languages: C, Python
-- Operating Systems: Linux (Ubuntu, CentOS)
+- Operating Systems: Linux (Ubuntu)
 - Tools and Technologies: Git, Shell scripting, Debugging, Unit testing
 
 ## 🌱 Interests
@@ -41,7 +41,7 @@ Feel free to reach out to me if you have any questions, project ideas, or just w
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D-on3)](https://github.com/D-on3/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D-on3)](https://github.com/D-on3/github-readme-stats&theme=tokyonight)
 
 
 
