@@ -40,6 +40,13 @@ Feel free to explore my repositories for more projects!
 Feel free to reach out to me if you have any questions, project ideas, or just want to connect!
 
 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=D-on3)](https://github.com/D-on3/github-readme-stats)
+
+
+
+
+
 <!--
 **D-on3/D-on3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
