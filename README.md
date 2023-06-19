@@ -65,3 +65,4 @@ Here are some ideas to get you started:
 <!--START_SECTION:language_stats
 ![D-on3's GitHub stats](https://github-readme-stats.vercel.app/api?username=D-on3&show_icons=true&theme=tokyonight)
 END_SECTION:language_stats-->
+<a href="https://app.daily.dev/on3"><img src="https://api.daily.dev/devcards/e8044c897f04495daa82e0fea4bd976b.png?r=x3j" width="400" alt="Deyan Nedyalkov's Dev Card"/></a>
