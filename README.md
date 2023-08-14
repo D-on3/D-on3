@@ -30,7 +30,7 @@ If you are looking for a dedicated and versatile developer who brings a unique p
 
 Here are some of the skills I've acquired:
 
-- Programming languages: C, Python ,<!--JavaScript -->,
+- Programming languages: C, Python, JavaScript
 - Operating Systems: Linux (Ubuntu)
 - Tools and Technologies: Git, Shell scripting, Debugging, Unit testing
 
