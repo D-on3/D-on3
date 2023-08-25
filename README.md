@@ -29,8 +29,7 @@ If you are looking for a dedicated and versatile developer who brings a unique p
 ## 🔧 Skills
 
 Here are some of the skills I've acquired:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-on3&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-on3&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ## 🌱 Interests
 
 I have a keen interest in the following areas:
