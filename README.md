@@ -19,7 +19,7 @@ Driven by an innate curiosity, I constantly seek new knowledge and challenges. I
 Let's Create Together:
 If you are looking for a dedicated and versatile developer who brings a unique perspective to the table, I am excited to explore opportunities where we can leverage technology, ML, and AI to push boundaries. Together, we can create meaningful solutions that have a positive impact.
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-on3&langs_count=8)
 <!--
 ## 💼 Experience
 
@@ -27,7 +27,7 @@ If you are looking for a dedicated and versatile developer who brings a unique p
 - [Company/Organization 2](link): Briefly describe your role, responsibilities, and notable projects you worked on.
 -->
 ## 🔧 Skills
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/D-on3/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=D-on3)](https://github.com/D-on3/github-readme-stats)
 ## 🌱 Interests
 
 I have a keen interest in the following areas:
