@@ -30,10 +30,7 @@ If you are looking for a dedicated and versatile developer who brings a unique p
 
 Here are some of the skills I've acquired:
 
-- Programming languages: C, Python, JavaScript
-- Operating Systems: Linux (Ubuntu)
-- Tools and Technologies: Git, Shell scripting, Debugging, Unit testing
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-on3&hide_progress=true)
 ## 🌱 Interests
 
 I have a keen interest in the following areas:
