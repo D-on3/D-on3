@@ -27,7 +27,7 @@ If you are looking for a dedicated and versatile developer who brings a unique p
 - [Company/Organization 2](link): Briefly describe your role, responsibilities, and notable projects you worked on.
 -->
 ## 🔧 Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-on3&layout=pie)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=d-on3)](https://github.com/d-on3/github-readme-stats)
 ## 🌱 Interests
 
 I have a keen interest in the following areas:
